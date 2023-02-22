@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" fill="#ffffff" />
+  <path d="M22,45 L42,65 L52,65 L72,45 L52,25 L42,25 Z" fill="#ed2213" stroke="#ed2213" stroke-width="4" />
+  <path d="M27,45 L73,45 M50,28 L50,72" stroke="#ffffff" stroke-width="6" />
+  <text x="50%" y="20" font-size="20" font-weight="bold" fill="#ed2213" text-anchor="middle">Health</text>
+</svg>
